@@ -1,0 +1,11 @@
+/Users/amitsinha/development/quantum_computing/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/Users/amitsinha/development/quantum_computing/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/Users/amitsinha/development/quantum_computing/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/Users/amitsinha/development/quantum_computing/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/Users/amitsinha/development/quantum_computing/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/Users/amitsinha/development/quantum_computing/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/Users/amitsinha/development/quantum_computing/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/Users/amitsinha/development/quantum_computing/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/Users/amitsinha/development/quantum_computing/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/Users/amitsinha/development/quantum_computing/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/Users/amitsinha/development/quantum_computing/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
